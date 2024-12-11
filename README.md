@@ -10,15 +10,21 @@
 ---
 
 # Required ReadMe Info for ALL MCS1243 Projects
-* **Project**   - 
-* **Your Name** - 
-* **Date**      - 
+* **Project**   - Johns Factory
+* **Your Name** - Lucas Vandenabeele
+* **Date**      - 11-12-24
 
 <br>
 
 1. **What are the controls to your game? How do we play?**
 
-
+W-forward
+A-left
+S-back
+D-right
+ESC-pause
+SPACE-jump
+E-interact
 
 <br>
 
@@ -30,31 +36,40 @@
 
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
 
-Robot Crush font https://www.dafont.com/robot-crush.font
+https://assetstore.unity.com/packages/3d/environments/backrooms-like-asset-pack-254543
+https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v3-0-101429
+https://assetstore.unity.com/packages/3d/props/industrial/industrial-tanks-package-122228
+https://assetstore.unity.com/packages/2d/textures-materials/free-seamless-textures-13868
+https://assetstore.unity.com/packages/2d/textures-materials/brick/p3d-outdoor-wall-tile-texture-pack-lr-247739
+
+(not all used)
+
+
 
 <br>
 
 4. **Did you receive help from anyone outside this class?** <br> (list their names and what they helped with)
 
-
+NO
 
 <br>
 
 5. **Did you get help from any AI Code Assistants?** <br> (Tell us which .cs file to look in for the citation and describe what you learned)
-
+No Ai help
 
 
 <br>
 
 6. **Did you get help from any online websites, videos, or tutorials?** <br> (link them here)
-
-
+Playlist of videos:
+www.youtube.com/playlist?list=PLvqILF20Qs0KnOdnCYtNye9iO1TjWoYGo
+btw your link to the animations on canvas don't work
 
 <br>
 
 7. **What trouble did you have with this project?**
 
-
+Mostly with the first person, then trying to get a more reusable interaction system working
 
 <br>
 
