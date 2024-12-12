@@ -63,7 +63,7 @@ No Ai help
 6. **Did you get help from any online websites, videos, or tutorials?** <br> (link them here)
 Playlist of videos:
 www.youtube.com/playlist?list=PLvqILF20Qs0KnOdnCYtNye9iO1TjWoYGo
-btw your link to the animations on canvas don't work
+
 
 <br>
 
